@@ -1,3 +1,5 @@
 Uczymy się gita i jest git
 
 Dzisiaj piatek.
+
+Super!
